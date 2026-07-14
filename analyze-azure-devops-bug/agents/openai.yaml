@@ -1,0 +1,5 @@
+interface:
+  display_name: "Azure DevOps Bug Analysis"
+  short_description: "Inspect DevOps bugs with traceable evidence"
+  default_prompt: "Use $analyze-azure-devops-bug to inspect the open Azure DevOps Bug and produce an evidence-backed analysis."
+
